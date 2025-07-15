@@ -1,0 +1,5 @@
+{
+  "instabug-domain": "api.instabug.com",
+  "apm-domain": "api-apm.instabug.com",
+  "diagnosis_domain": "monitoring.instabug.com"
+}
