@@ -127,6 +127,5 @@ dependencies {
     androidTestImplementation("com.google.dagger:hilt-android-testing:2.46.1")
     kaptAndroidTest("com.google.dagger:hilt-android-compiler:2.46.1")
     
-    // Instabug SDK
     implementation("com.instabug.library:instabug:15.0.1")
 }
